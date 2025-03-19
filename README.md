@@ -49,7 +49,7 @@ Follow the prompts to look up words and save cards.
 2. **Output**: The script fetches the dictionary entry for `Haus` or displays search results if no direct entry is found.
 3. **Card Creation**: The script creates cards like:
    ```
-   [Haus, "A building for living in", "Das Haus ist groß."]
+   ["Gebäude, das Menschen zum Wohnen dient","Haus, das","ein großes, kleines, altes, mehrstöckiges, verwinkeltes Haus<br>armselige, einfache, verkommene, baufällige, moderne Häuser<br>das Haus seiner Eltern<br>das Haus ist auf uns, in andere Hände übergegangen<br>ein Haus bauen, einrichten, beziehen, bewohnen<br>ein Haus [ver]mieten, [ver]kaufen<br>ein Haus renovieren, umbauen<br>ein eigenes Haus haben, besitzen<br>Haus an Haus (nebeneinander) wohnen<br>sie führten ihre Gäste durch das ganze Haus<br>im elterlichen Haus[e] wohnen<br>der Hausmeister jagte die spielenden Kinder aus dem Haus<br>das väterliche Haus"]
    ```
 4. **Save to CSV**: Select the cards you want to save, and they will be added to cards.csv.
 
